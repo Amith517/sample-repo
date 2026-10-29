@@ -2,6 +2,6 @@
 this is just a sample repo to test
 <br>
 i have just added this new line and now will try to add,commit and push it into github
-<br>
 lets see what happen
 
+this is a new line added in testing branch
